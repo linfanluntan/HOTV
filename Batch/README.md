@@ -1,4 +1,4 @@
-include the three subfolders into your path
+Include the three subfolders into your path
 
 
 In command line run: DECTVTV2_3Ddemo001new4niiparfor_temporal2TV
